@@ -33,7 +33,7 @@
     "lodash": "^4.17.4",
     "monaco-editor": "^0.12.0",
     "monaco-editor-webpack-plugin": "^1.1.0",
-    "rxjs": "^5.5.6"
+    "rxjs": "^6.0.0"
   },
   "peerDependencies": {
     "immutable": "^4.0.0-rc.9",

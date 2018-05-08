@@ -152,7 +152,7 @@
     "redux-logger": "^3.0.6",
     "redux-observable": "^0.18.0",
     "rimraf": "^2.6.2",
-    "rxjs": "^5.5.6",
+    "rxjs": "^6.0.0",
     "shell-env": "^1.0.0",
     "spawn-rx": "^2.0.12",
     "spawnteract": "^4.0.0",
